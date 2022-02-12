@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c90c3304.css",
+    "main.js": "/static/js/main.243b4233.js",
+    "static/js/787.dcfb02bf.chunk.js": "/static/js/787.dcfb02bf.chunk.js",
+    "static/media/SLIDER.png": "/static/media/SLIDER.965fbee902693e9c8844.png",
+    "static/media/BANNER_Sillon.png": "/static/media/BANNER_Sillon.364d5d643209f0da8b66.png",
+    "static/media/IMG_MesaRatona.png": "/static/media/IMG_MesaRatona.c668a2ee8150e8c3e2c2.png",
+    "static/media/GARABD.TTF": "/static/media/GARABD.05ca692709d4a1d43c3c.TTF",
+    "static/media/GARA.TTF": "/static/media/GARA.ebc0c981b418400d80ef.TTF",
+    "static/media/GARAIT.TTF": "/static/media/GARAIT.a9746f3bdd6da54dc166.TTF",
+    "static/media/IMG_Cómoda.png": "/static/media/IMG_Cómoda.138a0958c4c6bad8b499.png",
+    "static/media/IMG_Sillon.png": "/static/media/IMG_Sillon.9ad5047e26e1c5b621af.png",
+    "static/media/BARLOW-BLACKITALIC.TTF": "/static/media/BARLOW-BLACKITALIC.3de0afe6e065f8dae051.TTF",
+    "static/media/BARLOW-EXTRABOLDITALIC.TTF": "/static/media/BARLOW-EXTRABOLDITALIC.2ac12abf5aad0f67e7cd.TTF",
+    "static/media/BARLOW-BOLDITALIC.TTF": "/static/media/BARLOW-BOLDITALIC.0f546a41f3afd8d5a99d.TTF",
+    "static/media/BARLOW-SEMIBOLDITALIC.TTF": "/static/media/BARLOW-SEMIBOLDITALIC.c6369c78d21665b65abe.TTF",
+    "static/media/BARLOW-BLACK.TTF": "/static/media/BARLOW-BLACK.a124fb33fd1d8a32c163.TTF",
+    "static/media/BARLOW-EXTRABOLD.TTF": "/static/media/BARLOW-EXTRABOLD.4653fa55aa1a010f3955.TTF",
+    "static/media/BARLOW-ITALIC.TTF": "/static/media/BARLOW-ITALIC.46a01a113afb5eab9f66.TTF",
+    "static/media/BARLOW-MEDIUMITALIC.TTF": "/static/media/BARLOW-MEDIUMITALIC.d66ceaafc8b97dc382ea.TTF",
+    "static/media/BARLOW-LIGHTITALIC.TTF": "/static/media/BARLOW-LIGHTITALIC.ce41daee57de21daf75d.TTF",
+    "static/media/BARLOW-SEMIBOLD.TTF": "/static/media/BARLOW-SEMIBOLD.5a6be86b2fa0d383595c.TTF",
+    "static/media/BARLOW-BOLD.TTF": "/static/media/BARLOW-BOLD.2dc03d2e89ef7d9e6ffb.TTF",
+    "static/media/BARLOW-EXTRALIGHTITALIC.TTF": "/static/media/BARLOW-EXTRALIGHTITALIC.f7ae614fe2ce8315eebd.TTF",
+    "static/media/BARLOW-THINITALIC.TTF": "/static/media/BARLOW-THINITALIC.171d5dcdc4d71282c051.TTF",
+    "static/media/BARLOW-REGULAR.TTF": "/static/media/BARLOW-REGULAR.952f8963756042f7ccf5.TTF",
+    "static/media/BARLOW-MEDIUM.TTF": "/static/media/BARLOW-MEDIUM.40a6a9d2b5c96f1bb0c8.TTF",
+    "static/media/BARLOW-LIGHT.TTF": "/static/media/BARLOW-LIGHT.7e0099c5266078997e2c.TTF",
+    "static/media/BARLOW-EXTRALIGHT.TTF": "/static/media/BARLOW-EXTRALIGHT.08efebd990fa7eb5163f.TTF",
+    "static/media/BARLOW-THIN.TTF": "/static/media/BARLOW-THIN.31c931deacf68a51d5a6.TTF",
+    "static/media/ICONO_Sillon.png": "/static/media/ICONO_Sillon.d9dd162ff0d135123692.png",
+    "index.html": "/index.html",
+    "main.c90c3304.css.map": "/static/css/main.c90c3304.css.map",
+    "main.243b4233.js.map": "/static/js/main.243b4233.js.map",
+    "787.dcfb02bf.chunk.js.map": "/static/js/787.dcfb02bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c90c3304.css",
+    "static/js/main.243b4233.js"
+  ]
+}
