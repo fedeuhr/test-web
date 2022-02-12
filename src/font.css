@@ -1,0 +1,108 @@
+/* Barlow fontFamily */
+
+@font-face {
+    font-family: 'barlowBlack';
+    src: url('./fonts/Barlow/BARLOW-BLACK.TTF') format('truetype');
+  }
+
+@font-face {
+    font-family: 'barlowBlackItalic';
+    src: url('./fonts/Barlow/BARLOW-BLACKITALIC.TTF') format('truetype');
+  }
+
+@font-face {
+    font-family: 'barlowBold';
+    src: url('./fonts/Barlow/BARLOW-BOLD.TTF') format('truetype');
+  }
+
+@font-face {
+    font-family: 'barlowBoldItalic';
+    src: url('./fonts/Barlow/BARLOW-BOLDITALIC.TTF') format('truetype');
+  }
+
+@font-face {
+    font-family: 'barlowExtraBold';
+    src: url('./fonts/Barlow/BARLOW-EXTRABOLD.TTF') format('truetype');
+  }
+
+@font-face {
+    font-family: 'barlowExtraBoldItalic';
+    src: url('./fonts/Barlow/BARLOW-EXTRABOLDITALIC.TTF') format('truetype');
+  }
+
+@font-face {
+    font-family: 'barlowExtraLight';
+    src: url('./fonts/Barlow/BARLOW-EXTRALIGHT.TTF') format('truetype');
+  }
+
+@font-face {
+    font-family: 'barlowExtraLightItalic';
+    src: url('./fonts/Barlow/BARLOW-EXTRALIGHTITALIC.TTF') format('truetype');
+  }
+
+@font-face {
+    font-family: 'barlowItalic';
+    src: url('./fonts/Barlow/BARLOW-ITALIC.TTF') format('truetype');
+  }
+
+@font-face {
+    font-family: 'barlowLight';
+    src: url('./fonts/Barlow/BARLOW-LIGHT.TTF') format('truetype');
+  }
+
+@font-face {
+    font-family: 'barlowLightItalic';
+    src: url('./fonts/Barlow/BARLOW-LIGHTITALIC.TTF') format('truetype');
+  }
+
+@font-face {
+    font-family: 'barlowMedium';
+    src: url('./fonts/Barlow/BARLOW-MEDIUM.TTF') format('truetype');
+  }
+
+@font-face {
+    font-family: 'barlowMediumItalic';
+    src: url('./fonts/Barlow/BARLOW-MEDIUMITALIC.TTF') format('truetype');
+  }
+
+@font-face {
+    font-family: 'barlowRegular';
+    src: url('./fonts/Barlow/BARLOW-REGULAR.TTF') format('truetype');
+  }
+
+@font-face {
+    font-family: 'barlowSemiBold';
+    src: url('./fonts/Barlow/BARLOW-SEMIBOLD.TTF') format('truetype');
+  }
+
+@font-face {
+    font-family: 'barlowSemiBoldItalic';
+    src: url('./fonts/Barlow/BARLOW-SEMIBOLDITALIC.TTF') format('truetype');
+  }
+
+@font-face {
+    font-family: 'barlowThin';
+    src: url('./fonts/Barlow/BARLOW-THIN.TTF') format('truetype');
+  }
+
+@font-face {
+    font-family: 'barlowThinItalic';
+    src: url('./fonts/Barlow/BARLOW-THINITALIC.TTF') format('truetype');
+  }
+
+/* Garamond fontFamily */
+
+@font-face {
+    font-family: 'garamond';
+    src: url('./fonts/Garamond/GARA.TTF') format('truetype');
+  }
+
+@font-face {
+    font-family: 'garamondBold';
+    src: url('./fonts/Garamond/GARABD.TTF') format('truetype');
+  }
+
+@font-face {
+    font-family: 'garamondItalic';
+    src: url('./fonts/Garamond/GARAIT.TTF') format('truetype');
+  }
